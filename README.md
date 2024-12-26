@@ -148,3 +148,7 @@ CREATE TABLE Categories (
   Description TEXT
 );
 ```
+
+## ER-Diagram of Library-app
+
+![UML Diagram](lib/assets/lib.jpg)
